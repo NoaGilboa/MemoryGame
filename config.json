@@ -1,0 +1,7 @@
+{
+    "participants": [
+      { "name": "Player 1", "score": 0, "wins": 0 },
+      { "name": "Player 2", "score": 0, "wins": 0 }
+    ],
+    "cardTypes": ["bear", "deer", "elephant", "giraffe", "gorilla", "lion", "tiger", "zebra"]
+  }
